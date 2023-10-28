@@ -14,5 +14,5 @@ Yup. That's it.
 - Open CMD and type `pip3 install pyside6` (though optional since I made it install for you)
 
 ## HOW TO USE IT:
-- Download and Unzip the Source Code
+- [Download and Unzip the Source Code](https://github.com/gustwho/gusts-prompt-generator/releases/latest)
 - well run UI.py
