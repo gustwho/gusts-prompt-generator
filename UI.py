@@ -9,7 +9,10 @@ from data.loader import gen
 from PySide6 import QtWidgets
 from PySide6 import QtCore
 from data.WindowUI import Ui_MainWindow
-
+try:
+    import updatechecker
+except:
+    print("Offline?")
 def safe_int(n):
     try:
         return int(n)
