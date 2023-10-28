@@ -8,6 +8,7 @@ from data.loader import load
 from data.loader import gen
 from PySide6 import QtWidgets
 from PySide6 import QtCore
+from PySide6 import QtGui
 from data.WindowUI import Ui_MainWindow
 try:
     import updatechecker
@@ -25,6 +26,8 @@ class MainWindow(QtWidgets.QMainWindow, Ui_MainWindow):
     def __init__(self):
         super(MainWindow, self).__init__()
         self.setupUi(self)
+        self.setWindowTitle("Gust's Prompt Generator")
+        self.setWindowIcon(QtGui.QIcon("icon.png"))
         self.update_settings()
         self.update_boxes()
 
