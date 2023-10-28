@@ -1,4 +1,3 @@
 import requests
-version = 1
-
-requests.get()
+with open("version","r") as f:
+    requests.get()
