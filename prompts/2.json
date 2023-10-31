@@ -7,7 +7,7 @@
         "{1} : Go back to the kitchen.",
         "{2} : Okey *Proceeds to burn the water and somehow change fire to water*"
     ],
-    [    
+    [
         "{1} : *Sighs* Hear me out-",
         "{2} : No."
     ],
@@ -36,9 +36,35 @@
         "{2}: meow"
     ],
     [
-        "{1}: they made r34 headless horsemen",
-        "{2}: Where?",
-        "{2}: They gotta send it to me",
-        "{1}: ..."
+        "{1} : Wow, this coffee is as bitter as my ex.",
+        "{2} : I hope it's not as bitter as our breakup!"
+    ],
+    [
+        "{1} : I can't believe you ate all the pizza.",
+        "{2} : I thought you said you were on a diet."
+    ],
+    [
+        "{1} : Can you pass the salt, please?",
+        "{2} : Sure, here's the entire salt shaker."
+    ],
+    [
+        "{1} : You're terrible at cooking.",
+        "{2} : You're terrible at giving compliments."
+    ],
+    [
+        "{1} : I'm feeling so lazy today.",
+        "{2} : You mean like every other day?"
+    ],
+    [
+        "{1} : I just won the lottery!",
+        "{2} : Well, I guess you can finally pay me back all that money you owe me."
+    ],
+    [
+        "{1} : Can you believe it's Monday again?",
+        "{2} : Yeah, it's almost like it happens every week."
+    ],
+    [
+        "{1} : I'm so tired.",
+        "{2} : You say that every morning, and you never look any different in the afternoon."
     ]
 ]

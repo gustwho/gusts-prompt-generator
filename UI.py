@@ -50,7 +50,7 @@ class MainWindow(QtWidgets.QMainWindow, Ui_MainWindow):
         CharsMenu.clear()
         valid = load("./prompts/")
         for i in valid:
-            ListedChars.addItem(f"{i[0]} People - {i[1]} Prompts")
+            ListedChars.addItem(f"{i[0]}: {i[1]} Prompts")
             CharsMenu.addItem(str(i[0]))
         updating = False
         CharsMenu.setCurrentIndex(lastamt)
