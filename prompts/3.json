@@ -27,5 +27,10 @@
         "{1} : WHAT?",
         "{2} : What?",
         "{3} : What?"
+    ],
+    [
+        "{1}: Who's most likely to make a lesbian person straight?",
+        "{2}: {3}",
+        "{1}: No, he'd make a straight person lesbian."
     ]
 ]
